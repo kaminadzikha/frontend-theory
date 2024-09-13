@@ -7,3 +7,5 @@
 - [TypeScript (вопросы по языку TypeScript)](questions/ts.md)
 - [React (вопросы по библиотеке React)](questions/react.md)
 - [State management (вопросы по менеджменту состояния)](questions/redux.md)
+
+https://github.com/likezninjaz/react-ru-interview-questions - ещё вопросы, позже спизжу
