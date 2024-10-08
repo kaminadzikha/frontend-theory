@@ -1,6 +1,7 @@
-# Front-end вопросы для подготовки к собеседованию.
+# Front-end вопросы для подготовки к собеседованию
 **Темы вопросов:**
 - [Вопросы по JavaScript](questions/js.md)
 - [Вопросы по TypeScript](questions/ts.md)
 - [Вопросы по React](questions/react.md)
 - [Вопросы по Redux](questions/redux.md)
+- [Временно не распределенные вопросы](questions/buffer.md)
