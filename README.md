@@ -5,4 +5,3 @@
 - [Вопросы по TypeScript](questions/ts.md)
 - [Вопросы по React](questions/react.md)
 - [Вопросы по Redux](questions/redux.md)
-- [Буфер временно не распределенных вопросов](questions/buffer.md)
