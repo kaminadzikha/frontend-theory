@@ -1,7 +1,7 @@
 # Front-end вопросы/темы для подготовки к собеседованию
 
 **Темы вопросов:**
-- [Вопросы по Web Tech](./questions/web-technologies.md)
+- [Вопросы по Web Tech](./questions/web-tech.md)
 - [Вопросы по CSS и препроцессорам](./questions/css.md)
 - [Вопросы по JavaScript](./questions/js.md)
 - [Вопросы по TypeScript](./questions/ts.md)
