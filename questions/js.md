@@ -1411,7 +1411,7 @@ Promise.any([promise1, promise2, promise3])
     console.log(value); // 42
   })
   .catch(error => {
-    console.error(error);
+    console.error(error);/*AggregateError*/
   });
 ```
 
@@ -1463,6 +1463,8 @@ sadDog.catch(function (dog) {
   console.log(dog) // 🐶
 })
 ```
+
+`applicated error` - я не помню какой методы возвращает 
 
 ## 79. **Что такое fetch()?**
 
